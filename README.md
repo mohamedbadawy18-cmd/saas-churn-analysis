@@ -73,12 +73,6 @@ dashboard/
 EXECUTIVE_SUMMARY.md          # Stakeholder-facing summary and recommendations
 ```
 
-## Reproducing the data
-
-```bash
-cd data-generation
-python generate_saas_data.py
-```
 
 ## Tools
 
