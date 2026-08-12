@@ -1,0 +1,701 @@
+customer_id,plan,signup_date,acquisition_channel,payment_method
+CUST0001,Free,2023-11-24,Referral,Credit Card
+CUST0002,Free,2023-04-25,Organic Search,Invoice
+CUST0003,Business,2024-01-15,Organic Search,Invoice
+CUST0004,Free,2023-08-05,Organic Search,Credit Card
+CUST0005,Pro,2023-04-30,Organic Search,Invoice
+CUST0006,Pro,2023-04-12,Social,Credit Card
+CUST0007,Pro,2023-08-18,Organic Search,Credit Card
+CUST0008,Pro,2023-12-24,Referral,Credit Card
+CUST0009,Business,2023-04-21,Referral,Credit Card
+CUST0010,Pro,2023-02-17,Referral,PayPal
+CUST0011,Free,2023-11-06,Organic Search,Invoice
+CUST0012,Pro,2023-08-24,Social,Credit Card
+CUST0013,Free,2023-10-10,Referral,Invoice
+CUST0014,Pro,2023-04-09,Organic Search,Invoice
+CUST0015,Pro,2023-04-27,Organic Search,Credit Card
+CUST0016,Free,2024-03-19,Referral,PayPal
+CUST0017,Business,2023-11-22,Paid Ads,PayPal
+CUST0018,Free,2023-07-01,Referral,Invoice
+CUST0019,Pro,2024-04-24,Organic Search,Invoice
+CUST0020,Free,2023-11-22,Paid Ads,Credit Card
+CUST0021,Pro,2023-08-25,Paid Ads,Invoice
+CUST0022,Business,2023-06-16,Organic Search,Credit Card
+CUST0023,Free,2024-02-25,Referral,PayPal
+CUST0024,Free,2023-05-18,Referral,Credit Card
+CUST0025,Pro,2023-12-02,Social,Credit Card
+CUST0026,Free,2023-05-16,Referral,Invoice
+CUST0027,Pro,2023-10-27,Social,PayPal
+CUST0028,Business,2023-04-23,Paid Ads,Invoice
+CUST0029,Free,2023-09-10,Organic Search,Credit Card
+CUST0030,Pro,2023-03-20,Social,Invoice
+CUST0031,Pro,2023-02-02,Social,Invoice
+CUST0032,Business,2023-05-09,Organic Search,Invoice
+CUST0033,Free,2024-01-05,Referral,Invoice
+CUST0034,Free,2023-06-24,Social,Credit Card
+CUST0035,Free,2023-08-21,Referral,Invoice
+CUST0036,Free,2024-01-26,Organic Search,Invoice
+CUST0037,Business,2023-06-02,Paid Ads,Credit Card
+CUST0038,Pro,2023-07-11,Organic Search,Invoice
+CUST0039,Pro,2023-06-15,Organic Search,PayPal
+CUST0040,Business,2024-03-25,Referral,Credit Card
+CUST0041,Free,2023-01-30,Organic Search,Credit Card
+CUST0042,Pro,2024-01-10,Organic Search,Invoice
+CUST0043,Free,2024-01-28,Social,Invoice
+CUST0044,Free,2023-03-26,Social,Credit Card
+CUST0045,Pro,2024-04-20,Paid Ads,Invoice
+CUST0046,Pro,2023-06-09,Referral,PayPal
+CUST0047,Pro,2024-04-05,Organic Search,Credit Card
+CUST0048,Free,2023-04-26,Organic Search,Invoice
+CUST0049,Free,2023-10-11,Paid Ads,Credit Card
+CUST0050,Pro,2023-02-06,Organic Search,Credit Card
+CUST0051,Business,2023-02-04,Referral,Credit Card
+CUST0052,Free,2023-09-21,Social,Credit Card
+CUST0053,Free,2023-10-04,Social,Credit Card
+CUST0054,Pro,2024-02-06,Social,Credit Card
+CUST0055,Free,2023-02-18,Social,PayPal
+CUST0056,Pro,2023-08-05,Organic Search,Invoice
+CUST0057,Business,2023-12-01,Organic Search,Credit Card
+CUST0058,Pro,2023-07-26,Organic Search,Credit Card
+CUST0059,Free,2023-04-09,Social,Credit Card
+CUST0060,Free,2023-08-05,Social,Credit Card
+CUST0061,Business,2024-03-23,Social,Invoice
+CUST0062,Free,2023-02-20,Organic Search,Credit Card
+CUST0063,Pro,2024-04-19,Paid Ads,Credit Card
+CUST0064,Pro,2023-07-28,Paid Ads,PayPal
+CUST0065,Free,2024-04-07,Social,Credit Card
+CUST0066,Free,2023-07-19,Social,PayPal
+CUST0067,Pro,2023-08-05,Social,Credit Card
+CUST0068,Free,2023-04-08,Organic Search,Invoice
+CUST0069,Pro,2024-01-12,Referral,Credit Card
+CUST0070,Pro,2023-01-26,Paid Ads,Credit Card
+CUST0071,Free,2023-09-18,Paid Ads,Credit Card
+CUST0072,Free,2023-11-01,Paid Ads,PayPal
+CUST0073,Business,2023-03-03,Paid Ads,Invoice
+CUST0074,Free,2023-11-01,Organic Search,PayPal
+CUST0075,Pro,2023-12-03,Referral,PayPal
+CUST0076,Pro,2023-04-15,Referral,Credit Card
+CUST0077,Pro,2023-05-16,Referral,PayPal
+CUST0078,Business,2023-06-11,Organic Search,Credit Card
+CUST0079,Pro,2023-08-23,Organic Search,Credit Card
+CUST0080,Free,2023-10-03,Referral,Credit Card
+CUST0081,Free,2024-04-22,Organic Search,Credit Card
+CUST0082,Free,2023-07-09,Social,Invoice
+CUST0083,Free,2023-12-27,Organic Search,Invoice
+CUST0084,Pro,2024-02-23,Organic Search,Credit Card
+CUST0085,Free,2023-05-16,Organic Search,Invoice
+CUST0086,Free,2023-10-11,Referral,Invoice
+CUST0087,Pro,2023-04-18,Paid Ads,Invoice
+CUST0088,Business,2023-11-21,Social,PayPal
+CUST0089,Business,2024-04-08,Organic Search,Credit Card
+CUST0090,Pro,2023-11-21,Referral,Credit Card
+CUST0091,Free,2023-01-02,Paid Ads,Invoice
+CUST0092,Free,2023-05-15,Social,Invoice
+CUST0093,Pro,2023-12-28,Organic Search,Credit Card
+CUST0094,Business,2023-02-08,Paid Ads,Invoice
+CUST0095,Business,2023-01-19,Paid Ads,PayPal
+CUST0096,Free,2023-03-07,Referral,Credit Card
+CUST0097,Pro,2024-04-05,Paid Ads,Invoice
+CUST0098,Pro,2023-02-22,Social,Invoice
+CUST0099,Free,2024-01-19,Paid Ads,Credit Card
+CUST0100,Business,2024-02-14,Social,Credit Card
+CUST0101,Pro,2023-04-02,Referral,PayPal
+CUST0102,Pro,2024-02-15,Paid Ads,PayPal
+CUST0103,Pro,2023-03-23,Organic Search,PayPal
+CUST0104,Free,2024-03-22,Social,Credit Card
+CUST0105,Business,2023-04-13,Social,PayPal
+CUST0106,Business,2023-06-06,Paid Ads,Credit Card
+CUST0107,Pro,2023-01-13,Social,PayPal
+CUST0108,Business,2023-05-23,Referral,PayPal
+CUST0109,Pro,2023-11-25,Referral,Credit Card
+CUST0110,Business,2023-03-01,Referral,Credit Card
+CUST0111,Business,2023-10-25,Referral,Credit Card
+CUST0112,Pro,2023-02-25,Referral,Invoice
+CUST0113,Free,2024-02-07,Organic Search,PayPal
+CUST0114,Pro,2024-04-05,Referral,Credit Card
+CUST0115,Pro,2023-12-29,Paid Ads,PayPal
+CUST0116,Free,2023-08-09,Referral,Invoice
+CUST0117,Pro,2023-06-10,Organic Search,Invoice
+CUST0118,Free,2024-04-05,Referral,Invoice
+CUST0119,Free,2023-07-29,Referral,Invoice
+CUST0120,Free,2023-03-07,Social,Invoice
+CUST0121,Business,2024-01-19,Referral,PayPal
+CUST0122,Business,2023-10-08,Referral,PayPal
+CUST0123,Pro,2023-04-18,Referral,PayPal
+CUST0124,Pro,2023-08-15,Paid Ads,Invoice
+CUST0125,Pro,2023-08-31,Paid Ads,Invoice
+CUST0126,Free,2023-02-13,Referral,Credit Card
+CUST0127,Business,2024-02-24,Paid Ads,Invoice
+CUST0128,Free,2023-06-08,Paid Ads,Credit Card
+CUST0129,Free,2023-01-13,Social,Invoice
+CUST0130,Pro,2024-03-11,Social,PayPal
+CUST0131,Pro,2024-03-29,Paid Ads,Invoice
+CUST0132,Pro,2023-12-23,Social,Credit Card
+CUST0133,Pro,2023-03-17,Organic Search,Credit Card
+CUST0134,Pro,2024-02-03,Paid Ads,Invoice
+CUST0135,Pro,2023-09-23,Paid Ads,Credit Card
+CUST0136,Free,2023-08-22,Social,Invoice
+CUST0137,Business,2023-09-29,Referral,PayPal
+CUST0138,Business,2023-11-10,Social,Invoice
+CUST0139,Business,2023-08-17,Social,PayPal
+CUST0140,Pro,2023-05-13,Referral,Invoice
+CUST0141,Pro,2023-09-06,Referral,PayPal
+CUST0142,Pro,2023-02-09,Paid Ads,PayPal
+CUST0143,Free,2023-06-21,Organic Search,Credit Card
+CUST0144,Free,2023-03-19,Paid Ads,Invoice
+CUST0145,Free,2023-04-20,Social,PayPal
+CUST0146,Pro,2023-10-05,Organic Search,Credit Card
+CUST0147,Pro,2024-03-02,Organic Search,Invoice
+CUST0148,Pro,2023-07-14,Referral,PayPal
+CUST0149,Pro,2024-01-21,Social,Invoice
+CUST0150,Pro,2024-01-18,Paid Ads,PayPal
+CUST0151,Free,2023-04-23,Social,Credit Card
+CUST0152,Free,2023-07-19,Social,Invoice
+CUST0153,Business,2023-03-26,Paid Ads,Invoice
+CUST0154,Free,2023-10-01,Social,Invoice
+CUST0155,Pro,2023-10-16,Organic Search,Invoice
+CUST0156,Free,2023-08-08,Social,Credit Card
+CUST0157,Free,2023-01-26,Referral,Credit Card
+CUST0158,Free,2023-08-21,Social,PayPal
+CUST0159,Business,2024-01-21,Social,PayPal
+CUST0160,Free,2024-03-03,Organic Search,Invoice
+CUST0161,Free,2023-10-04,Referral,Credit Card
+CUST0162,Free,2023-11-29,Organic Search,Credit Card
+CUST0163,Free,2024-05-01,Organic Search,Invoice
+CUST0164,Free,2023-03-20,Social,Invoice
+CUST0165,Pro,2023-02-28,Paid Ads,PayPal
+CUST0166,Free,2023-12-25,Referral,Credit Card
+CUST0167,Pro,2023-11-07,Organic Search,Credit Card
+CUST0168,Free,2023-06-09,Organic Search,PayPal
+CUST0169,Pro,2023-10-22,Social,PayPal
+CUST0170,Pro,2024-04-27,Organic Search,Invoice
+CUST0171,Business,2023-12-20,Paid Ads,Credit Card
+CUST0172,Pro,2023-12-23,Organic Search,Invoice
+CUST0173,Free,2024-02-05,Social,Invoice
+CUST0174,Free,2023-07-09,Referral,Credit Card
+CUST0175,Pro,2024-03-10,Social,Credit Card
+CUST0176,Business,2023-08-10,Social,Invoice
+CUST0177,Pro,2023-03-20,Referral,Invoice
+CUST0178,Business,2024-02-18,Social,PayPal
+CUST0179,Business,2023-08-12,Referral,PayPal
+CUST0180,Free,2024-03-12,Organic Search,PayPal
+CUST0181,Pro,2024-03-27,Social,Invoice
+CUST0182,Pro,2023-11-09,Referral,Credit Card
+CUST0183,Business,2023-09-11,Paid Ads,PayPal
+CUST0184,Pro,2023-04-19,Referral,PayPal
+CUST0185,Business,2023-05-24,Referral,Invoice
+CUST0186,Pro,2023-01-06,Paid Ads,Credit Card
+CUST0187,Pro,2023-05-04,Social,Invoice
+CUST0188,Free,2024-01-24,Social,Invoice
+CUST0189,Pro,2023-12-31,Organic Search,Credit Card
+CUST0190,Free,2023-05-31,Paid Ads,PayPal
+CUST0191,Pro,2023-12-06,Social,Invoice
+CUST0192,Free,2023-09-29,Referral,PayPal
+CUST0193,Pro,2023-12-26,Referral,PayPal
+CUST0194,Free,2023-04-29,Paid Ads,PayPal
+CUST0195,Pro,2023-03-03,Paid Ads,Credit Card
+CUST0196,Pro,2023-04-21,Referral,Invoice
+CUST0197,Business,2023-10-29,Referral,Credit Card
+CUST0198,Free,2024-03-02,Paid Ads,PayPal
+CUST0199,Free,2023-04-02,Paid Ads,PayPal
+CUST0200,Business,2023-01-24,Referral,Invoice
+CUST0201,Free,2024-04-28,Social,Credit Card
+CUST0202,Free,2024-03-22,Referral,PayPal
+CUST0203,Pro,2023-09-03,Paid Ads,Credit Card
+CUST0204,Business,2023-05-10,Social,Credit Card
+CUST0205,Free,2024-02-25,Social,Credit Card
+CUST0206,Pro,2023-10-23,Organic Search,Credit Card
+CUST0207,Business,2023-03-18,Referral,Credit Card
+CUST0208,Free,2023-05-08,Social,Invoice
+CUST0209,Pro,2023-11-02,Paid Ads,Invoice
+CUST0210,Pro,2023-07-14,Social,PayPal
+CUST0211,Pro,2024-03-16,Social,PayPal
+CUST0212,Pro,2023-10-19,Organic Search,Credit Card
+CUST0213,Free,2023-11-17,Organic Search,Credit Card
+CUST0214,Free,2023-05-03,Organic Search,Credit Card
+CUST0215,Pro,2023-01-02,Social,PayPal
+CUST0216,Free,2023-01-17,Referral,Invoice
+CUST0217,Pro,2024-03-16,Paid Ads,PayPal
+CUST0218,Pro,2024-02-08,Paid Ads,PayPal
+CUST0219,Pro,2023-02-28,Paid Ads,PayPal
+CUST0220,Free,2024-02-28,Organic Search,Credit Card
+CUST0221,Free,2024-02-10,Referral,PayPal
+CUST0222,Pro,2023-03-05,Referral,Invoice
+CUST0223,Business,2023-07-26,Social,PayPal
+CUST0224,Pro,2023-02-11,Social,Invoice
+CUST0225,Pro,2023-06-15,Organic Search,Credit Card
+CUST0226,Business,2023-04-28,Organic Search,Invoice
+CUST0227,Free,2024-02-25,Organic Search,Credit Card
+CUST0228,Pro,2023-08-29,Social,PayPal
+CUST0229,Business,2023-04-03,Social,Invoice
+CUST0230,Pro,2024-02-21,Organic Search,PayPal
+CUST0231,Pro,2023-06-28,Referral,Invoice
+CUST0232,Business,2023-02-23,Referral,PayPal
+CUST0233,Pro,2023-12-22,Social,Invoice
+CUST0234,Pro,2023-01-19,Referral,PayPal
+CUST0235,Free,2023-06-15,Social,Invoice
+CUST0236,Business,2024-02-27,Social,PayPal
+CUST0237,Free,2023-01-28,Referral,Invoice
+CUST0238,Pro,2024-01-23,Social,Credit Card
+CUST0239,Free,2023-04-15,Paid Ads,PayPal
+CUST0240,Business,2023-08-13,Social,Credit Card
+CUST0241,Business,2023-01-15,Paid Ads,Invoice
+CUST0242,Free,2023-03-23,Organic Search,Invoice
+CUST0243,Free,2023-07-28,Organic Search,PayPal
+CUST0244,Free,2024-04-29,Paid Ads,PayPal
+CUST0245,Pro,2024-04-22,Referral,PayPal
+CUST0246,Pro,2024-03-03,Social,Credit Card
+CUST0247,Pro,2023-08-22,Social,Credit Card
+CUST0248,Pro,2024-04-16,Paid Ads,Credit Card
+CUST0249,Pro,2023-05-22,Social,PayPal
+CUST0250,Pro,2024-04-23,Referral,Credit Card
+CUST0251,Pro,2023-05-25,Social,Credit Card
+CUST0252,Pro,2023-08-17,Referral,PayPal
+CUST0253,Pro,2023-10-10,Social,PayPal
+CUST0254,Free,2024-04-22,Paid Ads,Invoice
+CUST0255,Pro,2023-05-03,Paid Ads,PayPal
+CUST0256,Free,2023-01-23,Social,Invoice
+CUST0257,Business,2024-04-12,Social,Invoice
+CUST0258,Business,2024-02-10,Paid Ads,PayPal
+CUST0259,Free,2023-01-19,Referral,Credit Card
+CUST0260,Business,2024-03-23,Organic Search,Invoice
+CUST0261,Pro,2024-04-11,Paid Ads,PayPal
+CUST0262,Pro,2024-03-21,Paid Ads,Credit Card
+CUST0263,Pro,2023-08-29,Referral,PayPal
+CUST0264,Pro,2023-11-16,Organic Search,PayPal
+CUST0265,Pro,2024-03-12,Social,PayPal
+CUST0266,Pro,2023-11-17,Social,Invoice
+CUST0267,Pro,2023-01-19,Paid Ads,Invoice
+CUST0268,Business,2023-12-17,Paid Ads,Invoice
+CUST0269,Pro,2023-02-16,Organic Search,Invoice
+CUST0270,Business,2023-12-27,Social,Credit Card
+CUST0271,Free,2023-12-22,Organic Search,Credit Card
+CUST0272,Pro,2023-06-16,Referral,PayPal
+CUST0273,Pro,2023-07-11,Paid Ads,Invoice
+CUST0274,Pro,2023-07-30,Paid Ads,Credit Card
+CUST0275,Free,2023-03-31,Social,Invoice
+CUST0276,Free,2023-12-16,Paid Ads,Credit Card
+CUST0277,Pro,2023-08-25,Social,PayPal
+CUST0278,Free,2023-12-08,Social,PayPal
+CUST0279,Pro,2023-12-13,Organic Search,PayPal
+CUST0280,Free,2024-04-28,Referral,Invoice
+CUST0281,Pro,2023-08-06,Social,PayPal
+CUST0282,Business,2023-04-12,Social,Credit Card
+CUST0283,Pro,2023-05-02,Referral,Invoice
+CUST0284,Business,2023-06-01,Referral,Credit Card
+CUST0285,Pro,2024-02-29,Referral,Credit Card
+CUST0286,Business,2023-10-17,Organic Search,Invoice
+CUST0287,Pro,2024-01-17,Referral,Credit Card
+CUST0288,Business,2023-11-07,Paid Ads,Invoice
+CUST0289,Pro,2023-04-08,Paid Ads,Invoice
+CUST0290,Business,2023-02-19,Organic Search,PayPal
+CUST0291,Pro,2024-02-08,Referral,Invoice
+CUST0292,Free,2023-03-09,Referral,PayPal
+CUST0293,Pro,2024-01-18,Paid Ads,Credit Card
+CUST0294,Pro,2024-02-07,Referral,Invoice
+CUST0295,Business,2023-09-14,Paid Ads,PayPal
+CUST0296,Business,2024-04-12,Social,PayPal
+CUST0297,Business,2024-01-18,Organic Search,PayPal
+CUST0298,Free,2023-02-08,Paid Ads,Invoice
+CUST0299,Pro,2024-01-06,Social,Invoice
+CUST0300,Free,2023-07-07,Social,Credit Card
+CUST0301,Pro,2023-05-16,Social,PayPal
+CUST0302,Pro,2023-12-11,Referral,Invoice
+CUST0303,Business,2023-07-15,Referral,Credit Card
+CUST0304,Free,2023-12-12,Organic Search,Invoice
+CUST0305,Business,2024-03-28,Referral,Invoice
+CUST0306,Pro,2023-04-24,Social,Invoice
+CUST0307,Pro,2023-06-04,Organic Search,Credit Card
+CUST0308,Business,2023-01-24,Referral,PayPal
+CUST0309,Free,2023-03-01,Paid Ads,PayPal
+CUST0310,Pro,2023-08-21,Social,Invoice
+CUST0311,Pro,2024-01-16,Social,Invoice
+CUST0312,Business,2023-02-20,Social,PayPal
+CUST0313,Pro,2023-01-17,Paid Ads,PayPal
+CUST0314,Business,2023-08-16,Referral,Credit Card
+CUST0315,Pro,2023-12-18,Referral,Credit Card
+CUST0316,Free,2023-07-23,Organic Search,PayPal
+CUST0317,Pro,2023-02-16,Organic Search,Credit Card
+CUST0318,Free,2024-02-07,Paid Ads,Invoice
+CUST0319,Free,2023-04-16,Paid Ads,Invoice
+CUST0320,Business,2023-04-21,Paid Ads,PayPal
+CUST0321,Free,2024-02-01,Organic Search,PayPal
+CUST0322,Business,2024-03-15,Paid Ads,Invoice
+CUST0323,Pro,2023-05-09,Organic Search,Invoice
+CUST0324,Free,2024-03-19,Organic Search,PayPal
+CUST0325,Pro,2024-02-09,Referral,Credit Card
+CUST0326,Free,2023-03-31,Paid Ads,Invoice
+CUST0327,Pro,2023-08-04,Organic Search,PayPal
+CUST0328,Pro,2023-08-18,Organic Search,PayPal
+CUST0329,Free,2023-09-15,Organic Search,Invoice
+CUST0330,Business,2024-02-06,Referral,PayPal
+CUST0331,Business,2023-11-26,Organic Search,PayPal
+CUST0332,Pro,2024-03-09,Organic Search,PayPal
+CUST0333,Business,2023-12-31,Organic Search,Credit Card
+CUST0334,Pro,2023-06-14,Organic Search,Credit Card
+CUST0335,Pro,2023-05-21,Referral,PayPal
+CUST0336,Pro,2023-11-02,Social,Invoice
+CUST0337,Pro,2023-11-06,Organic Search,Invoice
+CUST0338,Business,2023-11-30,Paid Ads,PayPal
+CUST0339,Business,2023-08-20,Social,PayPal
+CUST0340,Pro,2024-02-28,Social,Invoice
+CUST0341,Free,2023-02-18,Referral,Invoice
+CUST0342,Pro,2023-05-11,Paid Ads,Invoice
+CUST0343,Pro,2024-04-17,Organic Search,Credit Card
+CUST0344,Pro,2023-02-17,Referral,Credit Card
+CUST0345,Free,2023-10-12,Referral,Invoice
+CUST0346,Pro,2023-03-04,Social,Invoice
+CUST0347,Business,2023-01-27,Referral,PayPal
+CUST0348,Pro,2023-02-23,Paid Ads,Credit Card
+CUST0349,Pro,2023-12-03,Organic Search,PayPal
+CUST0350,Pro,2024-03-08,Organic Search,PayPal
+CUST0351,Free,2023-10-21,Social,Invoice
+CUST0352,Business,2024-01-28,Organic Search,Invoice
+CUST0353,Pro,2024-04-20,Referral,Credit Card
+CUST0354,Free,2023-04-03,Referral,PayPal
+CUST0355,Free,2023-06-29,Paid Ads,Invoice
+CUST0356,Pro,2023-12-03,Paid Ads,Invoice
+CUST0357,Business,2023-11-21,Organic Search,Invoice
+CUST0358,Free,2023-09-29,Social,PayPal
+CUST0359,Free,2023-06-24,Referral,Invoice
+CUST0360,Pro,2023-06-16,Organic Search,Credit Card
+CUST0361,Free,2023-03-21,Organic Search,Invoice
+CUST0362,Free,2023-02-11,Social,PayPal
+CUST0363,Pro,2023-11-07,Referral,Credit Card
+CUST0364,Pro,2024-01-22,Referral,PayPal
+CUST0365,Free,2023-02-26,Social,Invoice
+CUST0366,Free,2023-12-08,Paid Ads,PayPal
+CUST0367,Free,2023-11-03,Paid Ads,PayPal
+CUST0368,Free,2024-04-29,Paid Ads,PayPal
+CUST0369,Free,2023-05-29,Organic Search,PayPal
+CUST0370,Pro,2024-01-18,Paid Ads,PayPal
+CUST0371,Pro,2023-09-30,Referral,Credit Card
+CUST0372,Business,2023-07-23,Organic Search,PayPal
+CUST0373,Pro,2023-01-10,Organic Search,PayPal
+CUST0374,Pro,2023-10-22,Social,Invoice
+CUST0375,Pro,2023-11-24,Organic Search,PayPal
+CUST0376,Business,2023-01-11,Paid Ads,Invoice
+CUST0377,Business,2023-08-24,Referral,Credit Card
+CUST0378,Business,2023-08-12,Paid Ads,PayPal
+CUST0379,Pro,2023-10-29,Organic Search,PayPal
+CUST0380,Free,2024-03-21,Referral,Credit Card
+CUST0381,Pro,2023-06-20,Organic Search,Invoice
+CUST0382,Free,2023-11-21,Paid Ads,PayPal
+CUST0383,Pro,2023-06-29,Paid Ads,Credit Card
+CUST0384,Free,2023-02-22,Paid Ads,Credit Card
+CUST0385,Free,2023-11-05,Organic Search,Credit Card
+CUST0386,Pro,2024-01-31,Social,Invoice
+CUST0387,Pro,2024-01-25,Referral,Invoice
+CUST0388,Free,2023-06-11,Organic Search,PayPal
+CUST0389,Pro,2023-08-15,Referral,Invoice
+CUST0390,Pro,2023-01-29,Organic Search,PayPal
+CUST0391,Pro,2023-08-25,Organic Search,PayPal
+CUST0392,Free,2024-03-01,Organic Search,Invoice
+CUST0393,Pro,2023-11-01,Social,Invoice
+CUST0394,Business,2023-10-11,Organic Search,PayPal
+CUST0395,Business,2024-04-10,Paid Ads,PayPal
+CUST0396,Pro,2023-11-06,Paid Ads,Credit Card
+CUST0397,Free,2023-08-19,Referral,Invoice
+CUST0398,Pro,2023-02-13,Paid Ads,Credit Card
+CUST0399,Pro,2023-05-07,Social,Invoice
+CUST0400,Pro,2023-09-25,Referral,PayPal
+CUST0401,Free,2024-04-14,Social,PayPal
+CUST0402,Pro,2023-12-14,Referral,Credit Card
+CUST0403,Free,2023-06-18,Social,PayPal
+CUST0404,Pro,2023-05-10,Paid Ads,PayPal
+CUST0405,Pro,2023-02-11,Paid Ads,PayPal
+CUST0406,Business,2023-06-08,Social,Credit Card
+CUST0407,Pro,2023-11-01,Organic Search,PayPal
+CUST0408,Pro,2023-10-14,Referral,Credit Card
+CUST0409,Pro,2023-12-10,Organic Search,Invoice
+CUST0410,Pro,2023-12-10,Referral,Credit Card
+CUST0411,Free,2023-07-05,Paid Ads,PayPal
+CUST0412,Pro,2024-04-30,Paid Ads,Credit Card
+CUST0413,Free,2023-03-12,Referral,Credit Card
+CUST0414,Pro,2023-09-17,Organic Search,Invoice
+CUST0415,Business,2023-06-22,Paid Ads,Invoice
+CUST0416,Free,2023-07-12,Paid Ads,Invoice
+CUST0417,Pro,2024-01-30,Paid Ads,Invoice
+CUST0418,Free,2023-08-13,Referral,Invoice
+CUST0419,Free,2024-01-04,Social,Invoice
+CUST0420,Pro,2023-05-26,Social,Credit Card
+CUST0421,Free,2023-10-01,Social,Credit Card
+CUST0422,Pro,2023-07-08,Social,PayPal
+CUST0423,Free,2024-01-29,Social,Invoice
+CUST0424,Pro,2023-09-28,Paid Ads,Credit Card
+CUST0425,Pro,2024-02-15,Referral,Credit Card
+CUST0426,Pro,2023-11-25,Referral,Invoice
+CUST0427,Free,2024-04-23,Organic Search,PayPal
+CUST0428,Pro,2023-02-12,Referral,PayPal
+CUST0429,Pro,2024-04-08,Social,Credit Card
+CUST0430,Business,2024-04-29,Social,PayPal
+CUST0431,Free,2024-04-21,Organic Search,PayPal
+CUST0432,Pro,2023-09-15,Social,Credit Card
+CUST0433,Free,2023-07-11,Referral,Credit Card
+CUST0434,Pro,2024-03-05,Referral,Credit Card
+CUST0435,Free,2023-03-12,Social,Invoice
+CUST0436,Free,2024-03-01,Social,PayPal
+CUST0437,Free,2023-11-12,Organic Search,Credit Card
+CUST0438,Free,2023-05-12,Paid Ads,Invoice
+CUST0439,Pro,2024-04-26,Social,Credit Card
+CUST0440,Free,2024-02-02,Referral,Credit Card
+CUST0441,Free,2023-01-25,Social,Credit Card
+CUST0442,Business,2023-02-26,Social,Invoice
+CUST0443,Free,2023-10-02,Paid Ads,Invoice
+CUST0444,Free,2023-03-15,Organic Search,Invoice
+CUST0445,Free,2023-06-30,Social,Credit Card
+CUST0446,Pro,2023-12-07,Referral,Credit Card
+CUST0447,Pro,2023-09-27,Organic Search,PayPal
+CUST0448,Pro,2024-03-23,Social,PayPal
+CUST0449,Pro,2023-05-10,Referral,Credit Card
+CUST0450,Free,2023-06-26,Organic Search,Invoice
+CUST0451,Pro,2024-01-12,Paid Ads,Credit Card
+CUST0452,Pro,2023-06-30,Paid Ads,Invoice
+CUST0453,Business,2023-08-26,Social,Invoice
+CUST0454,Business,2023-04-04,Organic Search,Invoice
+CUST0455,Business,2024-02-02,Organic Search,PayPal
+CUST0456,Free,2023-04-14,Paid Ads,Credit Card
+CUST0457,Business,2023-06-11,Social,Invoice
+CUST0458,Free,2023-08-31,Paid Ads,PayPal
+CUST0459,Business,2023-07-02,Organic Search,Invoice
+CUST0460,Free,2023-06-19,Referral,PayPal
+CUST0461,Pro,2024-03-31,Social,PayPal
+CUST0462,Business,2023-06-23,Social,Invoice
+CUST0463,Pro,2023-09-12,Referral,Credit Card
+CUST0464,Pro,2024-01-08,Social,Invoice
+CUST0465,Free,2024-02-26,Referral,PayPal
+CUST0466,Free,2023-02-22,Referral,PayPal
+CUST0467,Pro,2023-08-17,Social,Credit Card
+CUST0468,Pro,2023-12-20,Social,Credit Card
+CUST0469,Business,2024-01-08,Referral,Invoice
+CUST0470,Free,2023-08-11,Organic Search,Credit Card
+CUST0471,Pro,2023-12-10,Referral,Invoice
+CUST0472,Pro,2024-02-15,Paid Ads,Credit Card
+CUST0473,Business,2023-03-15,Social,Credit Card
+CUST0474,Free,2023-03-06,Referral,PayPal
+CUST0475,Business,2023-07-16,Organic Search,Invoice
+CUST0476,Pro,2023-03-20,Referral,PayPal
+CUST0477,Pro,2023-08-16,Paid Ads,Invoice
+CUST0478,Pro,2023-07-07,Referral,Credit Card
+CUST0479,Free,2023-02-28,Paid Ads,PayPal
+CUST0480,Pro,2023-09-23,Organic Search,PayPal
+CUST0481,Free,2024-02-01,Social,Credit Card
+CUST0482,Free,2023-11-10,Social,Credit Card
+CUST0483,Free,2023-03-04,Organic Search,PayPal
+CUST0484,Business,2023-03-30,Social,Credit Card
+CUST0485,Pro,2024-02-19,Referral,Invoice
+CUST0486,Pro,2023-06-27,Referral,PayPal
+CUST0487,Free,2024-03-11,Paid Ads,PayPal
+CUST0488,Free,2023-09-18,Paid Ads,Credit Card
+CUST0489,Pro,2023-05-02,Organic Search,PayPal
+CUST0490,Pro,2023-10-11,Social,Invoice
+CUST0491,Pro,2023-03-08,Organic Search,Credit Card
+CUST0492,Pro,2023-06-08,Social,Invoice
+CUST0493,Pro,2023-07-30,Organic Search,Credit Card
+CUST0494,Pro,2023-06-12,Social,PayPal
+CUST0495,Pro,2023-12-15,Paid Ads,Invoice
+CUST0496,Pro,2023-11-24,Paid Ads,PayPal
+CUST0497,Business,2023-09-15,Organic Search,Credit Card
+CUST0498,Free,2023-09-23,Paid Ads,Credit Card
+CUST0499,Business,2023-06-15,Paid Ads,PayPal
+CUST0500,Business,2024-04-30,Referral,Credit Card
+CUST0501,Free,2023-05-09,Referral,Credit Card
+CUST0502,Free,2023-11-17,Organic Search,Invoice
+CUST0503,Free,2023-11-25,Paid Ads,Credit Card
+CUST0504,Pro,2023-12-04,Referral,Invoice
+CUST0505,Business,2023-01-22,Organic Search,Credit Card
+CUST0506,Business,2023-01-24,Referral,Invoice
+CUST0507,Pro,2023-04-18,Social,Invoice
+CUST0508,Free,2023-11-24,Referral,Invoice
+CUST0509,Pro,2023-06-04,Social,PayPal
+CUST0510,Free,2023-08-21,Organic Search,Credit Card
+CUST0511,Pro,2023-08-14,Social,Credit Card
+CUST0512,Pro,2023-06-24,Referral,Invoice
+CUST0513,Pro,2023-06-13,Referral,PayPal
+CUST0514,Pro,2023-03-08,Organic Search,PayPal
+CUST0515,Pro,2023-05-04,Referral,PayPal
+CUST0516,Free,2023-05-07,Organic Search,PayPal
+CUST0517,Pro,2024-04-29,Social,Credit Card
+CUST0518,Business,2024-03-19,Referral,Invoice
+CUST0519,Free,2024-01-05,Paid Ads,PayPal
+CUST0520,Pro,2023-09-21,Referral,PayPal
+CUST0521,Free,2023-01-12,Social,Invoice
+CUST0522,Business,2023-08-23,Paid Ads,Invoice
+CUST0523,Free,2023-06-30,Referral,PayPal
+CUST0524,Business,2023-11-02,Social,PayPal
+CUST0525,Free,2023-10-02,Organic Search,PayPal
+CUST0526,Business,2023-03-10,Referral,PayPal
+CUST0527,Free,2023-07-07,Organic Search,Invoice
+CUST0528,Free,2023-10-15,Referral,Credit Card
+CUST0529,Pro,2023-07-17,Referral,Invoice
+CUST0530,Pro,2023-12-15,Paid Ads,Credit Card
+CUST0531,Pro,2023-07-21,Referral,Invoice
+CUST0532,Pro,2024-04-25,Paid Ads,Credit Card
+CUST0533,Pro,2023-11-05,Organic Search,Credit Card
+CUST0534,Free,2023-01-20,Referral,PayPal
+CUST0535,Pro,2023-09-23,Paid Ads,PayPal
+CUST0536,Pro,2024-04-21,Paid Ads,PayPal
+CUST0537,Pro,2023-11-12,Referral,Invoice
+CUST0538,Pro,2023-06-22,Social,Invoice
+CUST0539,Free,2023-10-16,Organic Search,PayPal
+CUST0540,Pro,2023-06-19,Social,Invoice
+CUST0541,Pro,2023-06-07,Organic Search,Invoice
+CUST0542,Free,2023-08-31,Paid Ads,Invoice
+CUST0543,Pro,2023-01-27,Paid Ads,Invoice
+CUST0544,Pro,2023-11-19,Social,Credit Card
+CUST0545,Pro,2024-02-25,Organic Search,Invoice
+CUST0546,Pro,2024-04-30,Paid Ads,Credit Card
+CUST0547,Free,2023-08-14,Paid Ads,PayPal
+CUST0548,Free,2023-12-20,Social,Invoice
+CUST0549,Free,2024-01-08,Paid Ads,Invoice
+CUST0550,Pro,2023-04-17,Social,Invoice
+CUST0551,Free,2023-07-12,Paid Ads,PayPal
+CUST0552,Pro,2024-04-12,Referral,Invoice
+CUST0553,Business,2024-01-31,Referral,Invoice
+CUST0554,Free,2023-09-05,Paid Ads,PayPal
+CUST0555,Free,2023-10-13,Referral,PayPal
+CUST0556,Free,2023-12-27,Social,PayPal
+CUST0557,Free,2023-09-03,Referral,PayPal
+CUST0558,Pro,2023-03-04,Social,PayPal
+CUST0559,Free,2024-02-24,Paid Ads,PayPal
+CUST0560,Free,2023-01-22,Organic Search,PayPal
+CUST0561,Pro,2024-04-18,Referral,Invoice
+CUST0562,Free,2023-09-03,Referral,Invoice
+CUST0563,Free,2023-12-23,Organic Search,Invoice
+CUST0564,Pro,2024-01-15,Paid Ads,Credit Card
+CUST0565,Business,2023-12-09,Paid Ads,Invoice
+CUST0566,Free,2023-04-30,Social,PayPal
+CUST0567,Pro,2024-01-03,Paid Ads,Credit Card
+CUST0568,Business,2023-10-09,Paid Ads,PayPal
+CUST0569,Business,2023-12-01,Social,PayPal
+CUST0570,Free,2023-11-30,Referral,PayPal
+CUST0571,Pro,2023-05-27,Organic Search,Invoice
+CUST0572,Free,2023-10-21,Organic Search,Credit Card
+CUST0573,Business,2023-08-02,Paid Ads,Credit Card
+CUST0574,Pro,2024-03-04,Social,Credit Card
+CUST0575,Pro,2024-04-24,Referral,Credit Card
+CUST0576,Free,2023-01-05,Organic Search,PayPal
+CUST0577,Pro,2023-05-26,Social,Credit Card
+CUST0578,Pro,2024-03-11,Referral,Credit Card
+CUST0579,Free,2024-02-19,Paid Ads,Invoice
+CUST0580,Pro,2023-08-23,Paid Ads,Credit Card
+CUST0581,Free,2024-01-13,Referral,Invoice
+CUST0582,Pro,2023-12-12,Paid Ads,Invoice
+CUST0583,Pro,2024-03-14,Social,PayPal
+CUST0584,Free,2023-09-21,Social,Invoice
+CUST0585,Free,2023-02-18,Paid Ads,PayPal
+CUST0586,Business,2023-06-15,Organic Search,PayPal
+CUST0587,Free,2023-07-16,Referral,PayPal
+CUST0588,Pro,2023-06-04,Organic Search,PayPal
+CUST0589,Pro,2023-12-01,Paid Ads,Credit Card
+CUST0590,Free,2023-12-08,Referral,Credit Card
+CUST0591,Pro,2023-07-27,Referral,Invoice
+CUST0592,Pro,2023-03-02,Referral,PayPal
+CUST0593,Free,2023-11-11,Paid Ads,PayPal
+CUST0594,Pro,2023-03-20,Referral,PayPal
+CUST0595,Pro,2023-12-26,Social,Invoice
+CUST0596,Pro,2024-02-15,Paid Ads,Credit Card
+CUST0597,Pro,2023-12-15,Organic Search,Invoice
+CUST0598,Pro,2023-08-17,Referral,Credit Card
+CUST0599,Pro,2024-04-14,Organic Search,Invoice
+CUST0600,Pro,2024-04-07,Paid Ads,Credit Card
+CUST0601,Business,2023-06-17,Social,Credit Card
+CUST0602,Free,2023-12-15,Social,Credit Card
+CUST0603,Pro,2024-04-05,Organic Search,PayPal
+CUST0604,Pro,2023-03-09,Social,Invoice
+CUST0605,Pro,2023-01-30,Referral,Invoice
+CUST0606,Pro,2023-01-12,Organic Search,Invoice
+CUST0607,Pro,2023-04-22,Organic Search,PayPal
+CUST0608,Pro,2023-06-26,Organic Search,Credit Card
+CUST0609,Pro,2024-04-23,Referral,PayPal
+CUST0610,Pro,2023-04-03,Social,PayPal
+CUST0611,Pro,2024-04-01,Social,PayPal
+CUST0612,Pro,2023-02-11,Paid Ads,Invoice
+CUST0613,Free,2024-03-16,Paid Ads,Invoice
+CUST0614,Pro,2023-07-21,Paid Ads,Credit Card
+CUST0615,Free,2024-01-23,Referral,PayPal
+CUST0616,Pro,2023-12-11,Social,Invoice
+CUST0617,Business,2023-07-14,Paid Ads,PayPal
+CUST0618,Free,2023-06-27,Paid Ads,Invoice
+CUST0619,Free,2024-01-27,Social,Invoice
+CUST0620,Business,2024-01-28,Organic Search,Credit Card
+CUST0621,Free,2023-04-16,Organic Search,PayPal
+CUST0622,Pro,2023-11-03,Organic Search,Credit Card
+CUST0623,Free,2024-01-15,Social,Credit Card
+CUST0624,Free,2023-10-04,Organic Search,Credit Card
+CUST0625,Business,2023-09-15,Paid Ads,Invoice
+CUST0626,Free,2023-10-22,Referral,Credit Card
+CUST0627,Business,2023-06-04,Paid Ads,PayPal
+CUST0628,Free,2023-06-03,Paid Ads,Invoice
+CUST0629,Pro,2023-12-14,Social,Credit Card
+CUST0630,Business,2023-06-26,Social,Invoice
+CUST0631,Pro,2023-06-13,Social,Credit Card
+CUST0632,Pro,2023-06-03,Social,Credit Card
+CUST0633,Free,2024-03-10,Paid Ads,PayPal
+CUST0634,Free,2024-04-13,Social,PayPal
+CUST0635,Pro,2023-10-13,Social,Credit Card
+CUST0636,Free,2023-05-11,Organic Search,PayPal
+CUST0637,Pro,2024-03-09,Paid Ads,Credit Card
+CUST0638,Pro,2023-05-18,Organic Search,Credit Card
+CUST0639,Business,2023-04-07,Paid Ads,PayPal
+CUST0640,Business,2023-04-17,Referral,PayPal
+CUST0641,Free,2024-04-10,Paid Ads,Invoice
+CUST0642,Pro,2023-03-02,Social,Credit Card
+CUST0643,Pro,2023-12-23,Paid Ads,PayPal
+CUST0644,Free,2024-04-13,Referral,PayPal
+CUST0645,Pro,2023-07-14,Referral,PayPal
+CUST0646,Pro,2023-05-14,Social,PayPal
+CUST0647,Business,2023-02-20,Social,PayPal
+CUST0648,Free,2024-04-13,Referral,PayPal
+CUST0649,Pro,2023-01-24,Paid Ads,Invoice
+CUST0650,Free,2023-03-16,Social,PayPal
+CUST0651,Free,2023-03-20,Paid Ads,PayPal
+CUST0652,Business,2023-10-19,Social,Invoice
+CUST0653,Business,2023-12-02,Referral,PayPal
+CUST0654,Business,2024-01-26,Social,PayPal
+CUST0655,Pro,2023-03-28,Referral,Credit Card
+CUST0656,Pro,2023-03-13,Social,Credit Card
+CUST0657,Business,2024-04-14,Organic Search,Invoice
+CUST0658,Business,2023-01-18,Organic Search,Invoice
+CUST0659,Pro,2023-01-25,Social,Credit Card
+CUST0660,Pro,2024-03-07,Organic Search,Invoice
+CUST0661,Free,2023-03-19,Social,PayPal
+CUST0662,Pro,2023-01-31,Social,Invoice
+CUST0663,Free,2023-09-07,Social,Credit Card
+CUST0664,Pro,2023-01-09,Referral,Invoice
+CUST0665,Free,2023-05-27,Social,Credit Card
+CUST0666,Business,2023-02-24,Paid Ads,Credit Card
+CUST0667,Pro,2023-04-09,Referral,PayPal
+CUST0668,Pro,2023-05-17,Organic Search,PayPal
+CUST0669,Pro,2023-07-27,Paid Ads,Invoice
+CUST0670,Free,2023-04-26,Organic Search,Invoice
+CUST0671,Pro,2024-03-15,Organic Search,Credit Card
+CUST0672,Pro,2023-07-27,Social,Credit Card
+CUST0673,Free,2023-11-23,Paid Ads,Credit Card
+CUST0674,Business,2023-09-13,Referral,Invoice
+CUST0675,Business,2024-03-15,Organic Search,Credit Card
+CUST0676,Business,2023-04-19,Social,PayPal
+CUST0677,Business,2023-01-24,Referral,Invoice
+CUST0678,Pro,2023-10-16,Paid Ads,PayPal
+CUST0679,Business,2023-01-09,Paid Ads,Invoice
+CUST0680,Pro,2024-02-25,Organic Search,PayPal
+CUST0681,Pro,2023-03-25,Social,Invoice
+CUST0682,Pro,2024-04-04,Social,Invoice
+CUST0683,Pro,2023-03-13,Organic Search,Invoice
+CUST0684,Business,2024-01-17,Organic Search,Credit Card
+CUST0685,Free,2023-08-12,Organic Search,PayPal
+CUST0686,Pro,2023-11-06,Social,PayPal
+CUST0687,Pro,2023-01-16,Social,PayPal
+CUST0688,Pro,2023-04-27,Social,PayPal
+CUST0689,Pro,2023-04-06,Social,Credit Card
+CUST0690,Pro,2024-01-31,Paid Ads,Invoice
+CUST0691,Free,2023-02-07,Paid Ads,PayPal
+CUST0692,Pro,2023-12-31,Paid Ads,Invoice
+CUST0693,Free,2023-07-19,Organic Search,Credit Card
+CUST0694,Business,2023-01-03,Social,PayPal
+CUST0695,Free,2024-01-25,Paid Ads,Credit Card
+CUST0696,Pro,2023-04-06,Social,Credit Card
+CUST0697,Free,2023-01-14,Organic Search,Invoice
+CUST0698,Pro,2023-11-03,Social,Credit Card
+CUST0699,Pro,2023-05-30,Organic Search,Invoice
+CUST0700,Pro,2024-04-06,Paid Ads,Invoice
