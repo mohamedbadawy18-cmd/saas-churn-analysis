@@ -66,8 +66,6 @@ place it had to be applied and why.
 ## Repository Structure
 
 ```
-data-generation/
-└── generate_saas_data.py     # Synthetic dataset generator (seeded, reproducible)
 
 dashboard/
 └── DAX_measures.md           # Every DAX formula, including the relationship-loop fix
